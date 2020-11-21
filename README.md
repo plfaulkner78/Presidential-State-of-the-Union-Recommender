@@ -6,7 +6,8 @@ All jokes aside, for this project I used a corpus of every presidential State of
 
 To run this code, first download the dataset from the Kaggle link below. This will contain one .txt file for every speech. Also, this dataset is missing the speeches from 1790, 2019, and 2020, so you can create .txt files yourself using the transcripts found at the designated links.
 
-Data Sources:
+
+#### Data Sources:
 
 Speeches from 1791-2018: https://www.kaggle.com/rtatman/state-of-the-union-corpus-1989-2017
 
