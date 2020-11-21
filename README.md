@@ -1,8 +1,10 @@
 # Presidential State of the Union Recommender
 
-#### Remember when Nancy Pelosi ripped up Trump’s State of the Union speech? She obviously didn’t like the speech, so I started wondering, what other State of the Union addresses would she rip up if she could go back in time? Well, with some basic NLP tools, I created a speech recommender system that Speaker Pelosi can use to find State of the Union addresses similar to Trump’s 2020 address. 
+#### Remember when [Nancy Pelosi ripped up her copy of Trump’s State of the Union address?](https://www.youtube.com/watch?v=LPlvYeEfceU) She obviously didn’t like the speech, so I started wondering, what other State of the Union addresses would she rip up if she could go back in time? Well, with some basic NLP tools, I created a speech recommender system that Speaker Pelosi can use to find State of the Union addresses similar to Trump’s 2020 address. 
 
 #### All jokes aside, for this project I used a corpus of every presidential State of the Union address from 1790-2020. After some data preparation steps, I conducted an analysis of speech length, readability, and word popularity by comparing these metrics between parties and time periods. I found a number of interesting trends and learned some historical trivia through this analysis. Most importantly though, I created a fairly simple content-based recommendation system that can look at a State of the Union address and return to you the 10 most similar speeches.
+
+[I'm an inline-style link](https://www.google.com)
 
 -----------
 
