@@ -4,7 +4,11 @@ Remember when Nancy Pelosi ripped up Trump’s State of the Union speech? She ob
 
 All jokes aside, for this project I used a corpus of every presidential State of the Union address from 1790-2020. After some data preparation steps, I conducted an analysis of speech length, readability, and word popularity by comparing these metrics between parties and time periods. I found a number of interesting trends and learned some historical trivia through this analysis. Most importantly though, I created a fairly simple content-based recommendation system that can look at a State of the Union address and return to you the 10 most similar speeches.
 
-To run this code, first download the dataset from the Kaggle link below. This will contain one .txt file for every speech. Also, this dataset is missing the speeches from 1790, 2019, and 2020, so you can create .txt files yourself using the transcripts found at the designated links.
+---------------
+
+If you're only interested in the analysis, you can simply run the notebook titled "Presidential SOTU Analysis and Recommender". This notebook works with a .csv file that I have already formatted and cleaned.
+
+If you're interested in the data cleaning and formatting process itself, that code is in the notebook titled "Creating and Formatting Dataframe". To recreate the procedure from that notebook, you must first download the dataset from the Kaggle link below. This will contain one .txt file for every speech. Also, this dataset is missing the speeches from 1790, 2019, and 2020, so you can create .txt files yourself using the transcripts found at the designated links. Then you can place these files in a "Transcripts" directory and run my code exactly.
 
 
 #### Data Sources:
